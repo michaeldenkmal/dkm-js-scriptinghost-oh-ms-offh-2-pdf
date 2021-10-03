@@ -1,0 +1,1 @@
+Allgemeine Java Script ohne irgend eine externe Abhängigkeit.

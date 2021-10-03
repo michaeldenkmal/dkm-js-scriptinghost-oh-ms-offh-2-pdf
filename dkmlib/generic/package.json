@@ -1,0 +1,18 @@
+{
+  "name": "dkm-ts-generic",
+  "version": "1.0.0",
+  "description": "Allgemeine Java Script ohne irgend eine externe Abh�ngigkeit.",
+  "main": "dateUtil.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://192.168.2.116:4873/"
+  }
+
+}

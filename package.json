@@ -1,0 +1,23 @@
+{
+  "name": "oh_ms_offh_2_pdf",
+  "version": "1.0.1",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-ts": "~4.2.0-beta.1",
+    "grunt-typescript": "^0.6.2",
+    "ts": "0.0.0"
+  },
+  "dependencies": {
+    "lodash": "~3.9.3"
+  }
+}

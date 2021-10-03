@@ -1,0 +1,1 @@
+Scripts mit Abhängigkeit von kendo, also auch mit Abhängigkeit von jquery

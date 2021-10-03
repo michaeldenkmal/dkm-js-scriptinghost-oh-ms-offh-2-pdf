@@ -1,0 +1,11 @@
+<TypeScriptCompile Include="dkmlib\browser\bootstrap\bootstrapUtil.ts" />
+<TypeScriptCompile Include="dkmlib\browser\bootstrap\test\bootstrapUtil_test.ts" />
+<TypeScriptCompile Include="dkmlib\browser\generic\browserUtil.ts" />
+<TypeScriptCompile Include="dkmlib\browser\generic\test\hbuild_test.ts" />
+<TypeScriptCompile Include="dkmlib\browser\jquery\websrvc.ts" />
+<TypeScriptCompile Include="dkmlib\browser\kendo\kendoGridUtil.ts" />
+<TypeScriptCompile Include="dkmlib\browser\kendo\kendo_inc.d.ts" />
+<TypeScriptCompile Include="dkmlib\external\jquery.d.ts" />
+<TypeScriptCompile Include="dkmlib\external\kendo-ui.d.ts" />
+<TypeScriptCompile Include="dkmlib\generic\hbuild.ts" />
+

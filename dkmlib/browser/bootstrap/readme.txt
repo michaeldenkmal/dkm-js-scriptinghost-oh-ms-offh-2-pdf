@@ -1,0 +1,1 @@
+Scripts mit Abhängigkeit zu Bootstrap, daher mit Abhängigkeit zu jquery

@@ -1,0 +1,1 @@
+browser scripts ohne externe abhängigkeiten
